@@ -26,3 +26,16 @@ TODO Turn in: Turn in your 2 files (The Word and ScrabbleGame java files) to the
 TODO: Each student must respond to the reflection question individually, providing a unique answer. This part of the assignment should not be done collaboratively. Submit your reflection as a document either on Canvas or in the GitHub repository.
 
 Reflect on your personal problem-solving process. How did your understanding of object-oriented programming (e.g., classes, constructors, and data structures like ArrayLists) evolve as you worked on this task? What challenges did you encounter and how did you go about fixing them? Explain which LLM, your prompts, or internet help and how debugged your code?
+
+Sara Filipinas
+6/30/25
+Enhancement Added: Scoring system
+Words earn points based on length:
+4 or fewer letters: 2 points
+5–6 letters: 4 points
+7+ letters: 6 points
+Also added feedback messages based on score.
+
+
+Refliection: 
+This assignment helped me understand object oriented programming more, especially understanding how seperate classes interact with one another. The use of ArrayLists to store and organize data was also something I gained a deeper understanding of, seeing how the random letters pulled from the list was generated. I used copilot to help me with the basis of creating the scrabble and word files and it suggested to implement comparable in my word file to allow sorting of two word objects, this was a new thing I learned and it made the process easier. I added a point system as my additional improvement for the game, it was a scoring logic and I was able to learn more about using if and then statements and comparison logic. Overall this was a fun project.
